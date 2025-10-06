@@ -1,9 +1,13 @@
 const messageText = `Setiap tahun kamu selalu diberkati, dan selamat ulang tahun untuk orang paling istimewa! 🎉
+
 Semoga tahun barumu menjadi awal dari segala hal indah dalam hidupmu, dipenuhi dengan kebahagiaan dan ketenangan, serta tercapai semua yang kamu impikan dan lebih lagi 🌸
+
 Kamu adalah orang yang istimewa, kehadiranmu memberi banyak arti bagi orang di sekitarmu. Karena itu, hari ulang tahunmu harus istimewa seperti dirimu ❤️
 
 Selamat ulang tahun, semoga kamu selalu diberkati dengan kebahagiaan dan kesuksesan 🌟
-YOUSSIF ALKADY
+
+
+BY: YOUSSIF ALKADY
 `;
 
 const timer = document.getElementById('timer');
