@@ -29,7 +29,7 @@ function typeWriterEffect() {
     message.textContent += messageText.charAt(index);
     index++;
     main.scrollTop = main.scrollHeight;
-    setTimeout(typeWriterEffect, 2); // ✅ تم تسريع الكتابة (بدلاً من 1000)
+    setTimeout(typeWriterEffect, 20); // ✅ تم تسريع الكتابة (بدلاً من 1000)
   }
 }
 
